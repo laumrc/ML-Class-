@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.28)  1 OCT 2020 23:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.28)  1 OCT 2020 23:51
 entering extended mode
 **./ML.tex
 (ML.tex
@@ -103,6 +103,18 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
+("D:\Program Files (x86)\LateX\Files\tex/latex/jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+("D:\Program Files (x86)\LateX\Files\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+
+("D:\Program Files (x86)\LateX\Files\tex/latex/base\latin1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
 ("D:\Program Files (x86)\LateX\Files\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count188
@@ -110,20 +122,20 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 ) (ML.aux)
 \openout1 = `ML.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 ("D:\Program Files (x86)\LateX\Files\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -132,12 +144,12 @@ LaTeX Font Info:    ... okay on input line 6.
 \scratchbox=\box48
 \nofMPsegments=\count190
 \nofMParguments=\count191
-\everyMPshowfont=\toks21
+\everyMPshowfont=\toks23
 \MPscratchCnt=\count192
 \MPscratchDim=\dimen147
 \MPnumerator=\count193
 \makeMPintoPDFobject=\count194
-\everyMPtoPDFconversion=\toks22
+\everyMPtoPDFconversion=\toks24
 ) ("D:\Program Files (x86)\LateX\Files\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -204,7 +216,12 @@ If that doesn't work, type  X <return>  to quit.
 
 [1
 
-{C:/Users/Lucas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) [1] (ML.toc)
+{C:/Users/Lucas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (ML.toc
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
+
+("D:\Program Files (x86)\LateX\Files\tex/latex/jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+))
 \tf@toc=\write3
 \openout3 = `ML.toc'.
 
@@ -213,84 +230,9 @@ If that doesn't work, type  X <return>  to quit.
 ]
 Chapter 1.
 
-Overfull \hbox (10.35779pt too wide) in paragraph at lines 26--26
+Overfull \hbox (10.35779pt too wide) in paragraph at lines 25--25
 []\OT1/cmr/bx/n/17.28 German Um-lauts and other Lan-guage Spe-
  []
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 You can type german umlauts like 'ä',
-                                           'ö', or 'ü' directly in this file.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "F6.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 You can type german umlauts like 'ä', 'ö
-                                             ', or 'ü' directly in this file.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "FC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 ...n type german umlauts like 'ä', 'ö', or 'ü
-                                                  ' directly in this file.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 ...her language specific characters like 'é',
-                                                   'è' etc.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 ...nguage specific characters like 'é', 'è' e
-                                                  tc.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
 
 [3
 
@@ -311,20 +253,19 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 ] (ML.aux) ) 
 Here is how much of TeX's memory you used:
- 2346 strings out of 480930
- 34068 string characters out of 2906285
- 272645 words of memory out of 3000000
- 18180 multiletter control sequences out of 15000+200000
- 539099 words of font info for 48 fonts, out of 3000000 for 9000
+ 2392 strings out of 480930
+ 35129 string characters out of 2906285
+ 273172 words of memory out of 3000000
+ 18211 multiletter control sequences out of 15000+200000
+ 537930 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,29p,201b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,4n,29p,221b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Program Files (x86)/LateX/Files/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Program Files (x86)/LateX/
-Files/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files (x86)/LateX/Files/fonts/type1/public/amsfonts/cm/cmr17.
-pfb><D:/Program Files (x86)/LateX/Files/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files (x86)/LateX/Files/font
-s/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ML.pdf (7 pages, 64942 bytes).
+Files/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files (x86)/LateX/Files/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><D:/Program Files (x86)/LateX/Files/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ML.pdf (6 pages, 53134 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
